@@ -1,0 +1,84 @@
+
+*{
+    font-family:fantasy;
+    box-sizing: border-box;
+    margin: 0px;
+}
+header{
+    background: black;
+    padding: 0px;
+}
+.pic{
+    position:relative;
+    width: 1300px;
+    height: 600px;
+}
+nav{
+    color:black;
+    font-weight: bold;
+    font-size: 10px;
+    margin: 10px;
+}
+ul{
+    list-style: none;
+    padding: 0px;
+}
+li{
+    display: inline-block;
+    margin: 0px;
+    padding: 10px;
+    font-size: 12px;
+}
+.p1{
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 50%;
+    color: white;
+    font-size: 18px;
+}
+.tick{
+    text-decoration: none;
+    color: navajowhite;
+    padding: 15px;
+    background:darkslateblue;
+    font-weight: bold;
+    border-radius: 5px;
+    
+}
+.fan{
+    text-decoration: none;
+    color: navajowhite;
+    font-size: 25px;
+    padding: 9px;
+    border-radius: 1px;
+    font-weight: bold;
+    background: blue;
+    border-style:groove;
+    margin: auto; 
+}
+.rows{
+    text-align: center;
+    font-weight: bold;
+    padding: 30px;
+    font-size: 20px;
+    margin: 0px;
+}
+.foot{
+    padding: 40px;
+    text-align: center;
+    background:blue;
+    color: white;
+}
+p{
+    color: lightslategray;
+    margin: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+h1,h2{
+    color:darkslateblue;
+}
